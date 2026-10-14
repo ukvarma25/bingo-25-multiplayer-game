@@ -1,0 +1,6 @@
+{
+  "name": "Bingo 25",
+  "description": "Real-time multiplayer 5x5 Bingo game with numbers 1–25, custom room codes, manual and automatic calling, turn management, and instant line evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
